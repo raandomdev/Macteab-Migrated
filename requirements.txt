@@ -1,0 +1,14 @@
+numpy
+opencv-python-headless
+Pillow
+pyautogui
+rapidocr-onnxruntime
+requests
+psutil
+pyobjc
+pyperclip
+ttkbootstrap
+pywebview
+discord.py
+pynput
+pyinstaller
